@@ -1,0 +1,15 @@
+{
+    "exported_at": "2026-05-10 19:22:22",
+    "feature_group": "orders_purchase_commission_60d",
+    "horizon": 60,
+    "k": 3,
+    "features": [
+        "expected_orders_60d",
+        "p_purchase_approx_60d",
+        "expected_commission_60d"
+    ],
+    "n_sellers": 2248,
+    "silhouette_score": 0.5295301472662932,
+    "davies_bouldin_score": 0.6834460610863665,
+    "calinski_harabasz_score": 6881.441095214391
+}
