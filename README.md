@@ -1,10 +1,11 @@
 # Marketing-Driven Data Unlock
 
-This project focuses on analyzing and visualizing data to support decision-making in the marketing domain. The entire workflow — from data processing to report generation — is powered by tools like Jupyter Notebook and Python libraries.
+This project focuses on analyzing and visualizing data of an ecommerce business to support decision-making in the marketing domain. The entire workflow — from data processing to report generation — is powered by tools like Jupyter Notebook and Python libraries.
 
 ## 🎯 Objectives
 
-- Analyze marketing datasets to uncover valuable insights.
+- Analyze  datasets to uncover valuable insights.
+- Build BG/NBD model and apply to cluster sellers.
 - Build visual reports and dashboards to present findings.
 - Support data-driven decision-making.
 
@@ -48,7 +49,7 @@ This project uses `uv` to manage the Python environment and packages.
 
 ### 1. Prerequisites
 
-- Install [Python 3.12](https://www.python.org/) or use `pyenv` to manage Python versions.
+- Install [Python 3.11](https://www.python.org/) or use `pyenv` to manage Python versions.
 - Install `uv` (if not already installed). `uv` is an extremely fast Python package and environment manager.
 
   ```bash
